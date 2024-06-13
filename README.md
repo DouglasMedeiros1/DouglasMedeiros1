@@ -5,7 +5,7 @@ I am a 19-year-old young man who has enjoyed programming for years and who is cu
 I am a developer who is studying Multiplatform Software Development at Fatec in São José dos Campos and later I intend to further increase my knowledge with courses more aligned with the area I intend to pursue. [My Progress at Fatec🔗](https://github.com/DouglasMedeiros1/My_Projects_At_Fatec)
 
 
-<img src="https://github.com/DouglasMedeiros1/DouglasMedeiros1/blob/main/public/img_BoyPrograming.png" width="450" align='right'>
+<img src="https://github.com/DouglasMedeiros1/DouglasMedeiros1/blob/main/public/img_BoyPrograming.png" width="350" align='right'>
 
 ### Areas of interest
 - Web development
