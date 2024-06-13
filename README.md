@@ -4,9 +4,22 @@ I am a 19-year-old young man who has enjoyed programming for years and who is cu
 
 I am a developer who is studying Multiplatform Software Development at Fatec in São José dos Campos and later I intend to further increase my knowledge with courses more aligned with the area I intend to pursue. [My Progress at Fatec🔗](https://github.com/DouglasMedeiros1/My_Projects_At_Fatec)
 
+
+<img src="https://github.com/DouglasMedeiros1/DouglasMedeiros1/blob/main/public/img_BoyPrograming.png" width="450" align='right'>
+
+### Areas of interest
+- Web development
+- Software development
+- Game Development
+- Artificial intelligence
+
+<hr>
+
 > [!Note]
 > - [Linkedin](https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/)
 > - [Email](mailto:douglas.medeiros_1@outlook.com)
+
+<br>
 
 ## Technologies and Tools
 Here are some of the technologies and tools I have experience with:
@@ -23,6 +36,7 @@ Here are some of the technologies and tools I have experience with:
 ## GitHub Statistics (Expand to View)
 <details>
 <summary>View Statistics</summary>
+  <br>
   
   ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=DouglasMedeiros1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark&card_width=445)
   <br>
@@ -33,9 +47,5 @@ Here are some of the technologies and tools I have experience with:
 </details>
 <br>
 
-## Areas of interest
-- Web development
-- Software development
-- Game Development
-- Artificial intelligence
+
 
