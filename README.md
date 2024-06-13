@@ -1,13 +1,12 @@
 # Hello! I'm Douglas 👋
 
-## About me
 I am a 19-year-old young man who has enjoyed programming for years and who is currently specializing and becoming a professional in the area of ​​developing Web systems, with a great interest in developing games.
 
 I am a developer who is studying Multiplatform Software Development at Fatec in São José dos Campos and later I intend to further increase my knowledge with courses more aligned with the area I intend to pursue. [My Progress at Fatec🔗](https://github.com/DouglasMedeiros1/My_Projects_At_Fatec)
 
-#### Contacts
-- [Linkedin](https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/)
-- [Email](mailto:douglas.medeiros_1@outlook.com)
+> [!Note]
+> - [Linkedin](https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/)
+> - [Email](mailto:douglas.medeiros_1@outlook.com)
 
 ## Technologies and Tools
 Here are some of the technologies and tools I have experience with:
@@ -21,10 +20,18 @@ Here are some of the technologies and tools I have experience with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&color=00695c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&color=00695c&logoColor=white)
 
-## GitHub Statistics
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=DouglasMedeiros1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark&card_width=545)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMedeiros1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark&card_width=545)
+## GitHub Statistics (Expand to View)
+<details>
+<summary>View Statistics</summary>
+  
+  ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=DouglasMedeiros1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark&card_width=445)
+  <br>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasMedeiros1&theme=vue-dark&card_width=445)](https://git.io/streak-stats)
+  <br>
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMedeiros1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark&card_width=445)
 
+</details>
+<br>
 
 ## Areas of interest
 - Web development
