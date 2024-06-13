@@ -3,7 +3,7 @@
 ## About me
 I am a 19-year-old young man who has enjoyed programming for years and who is currently specializing and becoming a professional in the area of ​​developing Web systems, with a great interest in developing games.
 
-I am a developer who is studying Multiplatform Software Development at Fatec in São José dos Campos and later I intend to further increase my knowledge with courses more aligned with the area I intend to pursue.
+I am a developer who is studying Multiplatform Software Development at Fatec in São José dos Campos and later I intend to further increase my knowledge with courses more aligned with the area I intend to pursue. [My Progress at Fatec🔗](https://github.com/DouglasMedeiros1/My_Projects_At_Fatec)
 
 #### Contacts
 - [Linkedin](https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/)
